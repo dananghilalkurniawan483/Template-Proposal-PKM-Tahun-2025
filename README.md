@@ -7,7 +7,7 @@ Tujuannya adalah untuk memudahkan mahasiswa dalam membuat proposal PKM dengan fo
 Template ini bersifat sebagai **referensi atau rujukan** saja, bukan acuan tetap yang harus diikuti secara kaku.  
 Pedoman PKM dapat berubah setiap tahunnya, sehingga template ini mungkin perlu disesuaikan dengan ketentuan terbaru di masa mendatang.
 
-Kami menyarankan agar pengguna selalu memeriksa pedoman resmi PKM terbaru sebelum menyusun proposal agar sesuai dengan persyaratan yang berlaku.
+Penulis menyarankan agar pengguna selalu memeriksa pedoman resmi PKM terbaru sebelum menyusun proposal agar sesuai dengan persyaratan yang berlaku.
 
 ---
 
